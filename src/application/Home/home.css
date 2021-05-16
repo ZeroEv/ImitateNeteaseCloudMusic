@@ -1,0 +1,158 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2551326 */
+  src: url('//at.alicdn.com/t/font_2551326_ywf26pwm11.woff2?t=1621158545545') format('woff2'),
+       url('//at.alicdn.com/t/font_2551326_ywf26pwm11.woff?t=1621158545545') format('woff'),
+       url('//at.alicdn.com/t/font_2551326_ywf26pwm11.ttf?t=1621158545545') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-thumbs-up:before {
+  content: "\e6da";
+}
+
+.icon-star-empty:before {
+  content: "\e6db";
+}
+
+.icon-text-size:before {
+  content: "\e6dc";
+}
+
+.icon-shirt:before {
+  content: "\e6dd";
+}
+
+.icon-unlink:before {
+  content: "\e6de";
+}
+
+.icon-volume-low:before {
+  content: "\e6df";
+}
+
+.icon-volume:before {
+  content: "\e6e0";
+}
+
+.icon-volume-medium:before {
+  content: "\e6e1";
+}
+
+.icon-text-align-justify:before {
+  content: "\e6e2";
+}
+
+.icon-tablet:before {
+  content: "\e6e3";
+}
+
+.icon-sync:before {
+  content: "\e6e4";
+}
+
+.icon-star:before {
+  content: "\e6e5";
+}
+
+.icon-sun:before {
+  content: "\e6e6";
+}
+
+.icon-volume-high:before {
+  content: "\e6e7";
+}
+
+.icon-map-marker:before {
+  content: "\e6c7";
+}
+
+.icon-location:before {
+  content: "\e6c8";
+}
+
+.icon-link:before {
+  content: "\e6c6";
+}
+
+.icon-lock:before {
+  content: "\e6c9";
+}
+
+.icon-list:before {
+  content: "\e6ca";
+}
+
+.icon-menu-circle:before {
+  content: "\e6cb";
+}
+
+.icon-menu:before {
+  content: "\e6cc";
+}
+
+.icon-magnifier:before {
+  content: "\e6cd";
+}
+
+.icon-paperclip:before {
+  content: "\e6ce";
+}
+
+.icon-move:before {
+  content: "\e6cf";
+}
+
+.icon-plus-circle:before {
+  content: "\e6d0";
+}
+
+.icon-screen:before {
+  content: "\e6d1";
+}
+
+.icon-redo:before {
+  content: "\e6d2";
+}
+
+.icon-sad:before {
+  content: "\e6d3";
+}
+
+.icon-question-circle:before {
+  content: "\e6d4";
+}
+
+.icon-smartphone:before {
+  content: "\e6d5";
+}
+
+.icon-underline:before {
+  content: "\e6d6";
+}
+
+.icon-undo:before {
+  content: "\e6d7";
+}
+
+.icon-trash:before {
+  content: "\e6d8";
+}
+
+.icon-user:before {
+  content: "\e6d9";
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
